@@ -1,0 +1,22 @@
+{
+  "name": "comunicacioner",
+  "version": "0.1.0",
+  "description": "Libreria de comunicacion",
+  "main": "communication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otrebla121/intentolibreria2.git"
+  },
+  "keywords": [
+    "comunicacion"
+  ],
+  "author": "alber ferrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otrebla121/intentolibreria/issues"
+  },
+  "homepage": "https://github.com/otrebla121/intentolibreria#readme"
+}
